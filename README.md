@@ -3,6 +3,7 @@
 ## AIM:
 To implement HASH ALGORITHM
 
+
 ## ALGORITHM:
 
 1. Hash Algorithm is used to convert input data (message) into a fixed-size string, typically a hash value, which uniquely represents the original data.
